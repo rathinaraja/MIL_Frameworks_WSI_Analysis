@@ -49,7 +49,7 @@
 **Multiple Instance Learning (MIL)** is the dominant paradigm for WSI analysis. In MIL, each WSI is treated as a *bag* of patch-level *instances* (tiles). The bag-level label (e.g., tumour vs. normal) is known, but individual patch labels are not. MIL models learn to aggregate instance features into a slide-level representation for classification.
 
 <p align="center">
-  <img src="images/mil_overview.png" width="800" alt="MIL Framework Overview"/>
+  <img src="images/wsi_analysis.png" width="800" alt="MIL Framework Overview"/>
   <br/>
   <em>Figure 1: Overview of the MIL-based WSI classification pipeline.</em>
 </p>
