@@ -8,7 +8,7 @@
 [![WSI](https://img.shields.io/badge/Task-WSI%20Classification-purple?style=flat-square)]()
 [![MIL](https://img.shields.io/badge/Paradigm-Multiple%20Instance%20Learning-red?style=flat-square)]()
 
----
+---  
 
 ## Table of Contents
 
